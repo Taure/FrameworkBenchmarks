@@ -1,0 +1,26 @@
+{
+  "framework": "nova",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Fullstack",
+        "database": "postgres",
+        "framework": "Nova",
+        "language": "Erlang",
+        "flavor": "None",
+        "orm": "Raw",
+        "platform": "None",
+        "webserver": "Cowboy",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "Nova",
+        "notes": "",
+        "versus": "Phoenix"
+      }
+    }
+  ]
+}
